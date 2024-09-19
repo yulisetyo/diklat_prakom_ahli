@@ -1,0 +1,130 @@
+Direktorat SITP
+Visi: menjadi enabler visi Ditjen Perbendaharaan melalui transformasi digital
+Misi: 
+- cloud base information system mobile platform, less paper, more educated people
+- beyond digital treasury: smart treasury system collaborative environtment, Paperless transaction
+
+
+Tugas dan Fungsi
+Memiliki tugas merumuskan serta melaksanakan kebijakan dan standarisasi teknis di bidang sistem informasi dan teknologi perbendaharaan
+- Penyiapan perencanaan dan perancangan sistem informasi dan teknologi perbendaharaan
+- pelaksana kebijakan sistem informasi dan teknologi perbendaharaan
+- penyiapan penyusunan norma, standar, prosedur, dan kriteria sistem informasi dan teknologi perbendaharaan
+- pengembangan dan pemeliharaan sistem informasi 
+- pemberian bimbingan teknis dan evaluasi sistem informasi dan teknologi perbendaharaan
+- pembinaan jabatan fungsional pranata komputer di lingkungan direktorat jenderal perbendaharaan; dan
+- pelaksana tata usaha direktorat sistem informasi dan teknologi perbendaharaan
+
+
+
+BAB II
+dalam bagian ini dijelaskan detail tahapan dari butir kegiatan yang telah diidentifikasi pada BAB sebelumnya yang menjadi tolok ukur kegiatan pranata komputer
+1. melakukan penyiapan data untuk uji coba sistem informasi (Aplikasi INTENSE - Modul Profil). kegiatan ini melibatkan pengumpulan, pemrosesan, dan penyusunan data yang diperlukan agar sistem informasi dapat diuji secara efektif. Data yang disiapkan akan digunakan untuk mengevaluasi kinerja, keakuratan, dan fungsionalitas sistem yang sedang dikembangkan. Kegiatan bertujuan untuk memastikan bahwa sistem yang dibangun dapat memenuhi kebutuhan pemilik proses bisnis dan berfungsi sesuai dengan spesifikasi yang ditetapkan.
+Deskripsi
+Kegiatan penyiapan data untuk uji coba sistem informasi melibatkan pengumpulan, pemrosesan, dan penyusunan data yang diperlukan agar sistem informasi dapat diuji secara efektif. Data yang disiapkan akan digunakan untuk mengevaluasi kinerja, keakuratan, dan fungsionalitas sistem yang sedang dikembangkan. Kegiatan ini penting untuk memastikan bahwa sistem yang dibangun dapat memenuhi kebutuhan pengguna dan berfungsi sesuai dengan spesifikasi yang ditetapkan.
+Maksud dan Tujuan
+Maksud: Untuk mempersiapkan data yang relevan dan representatif agar proses uji coba sistem informasi berjalan dengan lancar dan dapat memberikan hasil yang valid.
+Tujuan:
+Mengidentifikasi dan mengumpulkan data yang dibutuhkan untuk pengujian.
+Memastikan data yang digunakan akurat, lengkap, dan relevan.
+Menyusun data dalam format yang sesuai untuk diuji dalam sistem.
+Mengurangi risiko kesalahan atau masalah dalam fase uji coba.
+Meningkatkan efektivitas dan efisiensi pengujian sistem informasi.
+Tahapan
+Identifikasi Kebutuhan Data:
+Menentukan jenis data yang diperlukan berdasarkan spesifikasi sistem.
+Mengidentifikasi sumber data yang relevan (data historis, data baru, dsb.).
+Pengumpulan Data:
+Mengumpulkan data dari sumber yang telah diidentifikasi.
+Melakukan wawancara atau survei jika diperlukan untuk mendapatkan data tambahan.
+Pembersihan Data:
+Memeriksa dan memperbaiki data untuk menghilangkan duplikasi, kesalahan, atau data yang tidak relevan.
+Memastikan data berada dalam format yang konsisten.
+Pengolahan Data:
+Mengolah data agar siap digunakan dalam uji coba, seperti transformasi format atau agregasi data.
+Membuat dataset yang sesuai untuk skenario pengujian.
+Dokumentasi Data:
+Mencatat dan mendokumentasikan semua langkah dalam proses penyiapan data.
+Menyimpan catatan mengenai sumber, tanggal, dan metode pengumpulan data.
+Review dan Validasi:
+Meminta tim untuk meninjau data yang telah disiapkan.
+Melakukan validasi untuk memastikan data memenuhi kriteria yang ditetapkan.
+Penyimpanan dan Distribusi:
+Menyimpan data dalam repositori yang aman dan mudah diakses oleh tim pengujian.
+Mengedarkan data kepada tim yang bertanggung jawab untuk pengujian.
+Dengan mengikuti tahapan ini, proses penyiapan data dapat berjalan dengan lebih sistematis dan efisien, serta membantu memastikan keberhasilan uji coba sistem informasi.
+
+
+2. menyusun skenario uji coba sistem informasi (Aplikasi INTENSE - Modul Profil). Kegiatan ini melibatkan perancangan langkah-langkah yang akan dilakukan untuk menguji berbagai fungsi dan fitur dalam sistem. Skenario ini mencakup situasi nyata yang mungkin dihadapi pengguna, sehingga dapat mengevaluasi kinerja sistem dalam berbagai kondisi. Skenario yang disusun bertujuan untuk memastikan bahwa sistem informasi berjalan sesuai dengan yang diharapkan dan dapat memenuhi kebutuhan pengguna.
+Deskripsi
+Kegiatan menyusun skenario uji coba sistem informasi melibatkan perancangan langkah-langkah konkret yang akan diikuti untuk menguji berbagai fungsi dan fitur dalam sistem. Skenario ini mencakup situasi nyata yang mungkin dihadapi pengguna, sehingga dapat mengevaluasi kinerja sistem dalam berbagai kondisi. Skenario yang disusun bertujuan untuk memastikan bahwa sistem informasi berjalan sesuai dengan yang diharapkan dan dapat memenuhi kebutuhan pengguna.
+Maksud dan Tujuan
+Maksud: Untuk merancang skenario yang mencerminkan penggunaan sistem informasi secara nyata, sehingga proses pengujian dapat memberikan gambaran yang akurat tentang performa dan fungsionalitas sistem.
+Tujuan:
+Mengidentifikasi fitur dan fungsi utama yang perlu diuji.
+Menyusun langkah-langkah pengujian yang jelas dan terstruktur.
+Memastikan bahwa skenario mencakup berbagai kondisi penggunaan yang mungkin terjadi.
+Menyediakan panduan bagi tim penguji untuk melakukan uji coba secara sistematis.
+Mengidentifikasi potensi masalah atau bug sebelum sistem diluncurkan.
+Tahapan
+Analisis Kebutuhan Pengguna:
+Mengumpulkan informasi tentang kebutuhan dan harapan pengguna dari sistem.
+Meninjau dokumentasi sistem dan spesifikasi fungsional.
+Identifikasi Fitur dan Fungsi:
+Mengidentifikasi fitur utama yang perlu diuji berdasarkan analisis sebelumnya.
+Mengategorikan fungsi-fungsi berdasarkan prioritas atau kompleksitas.
+Perancangan Skenario Uji:
+Menyusun skenario uji yang mencakup langkah-langkah penggunaan sistem.
+Membuat variasi skenario untuk mencakup kondisi normal, batas, dan abnormal.
+Penentuan Kriteria Keberhasilan:
+Menetapkan kriteria yang jelas untuk menilai keberhasilan setiap skenario.
+Mengidentifikasi hasil yang diharapkan dari pengujian.
+Dokumentasi Skenario:
+Mencatat setiap skenario dalam format yang mudah dipahami, termasuk langkah-langkah, data yang diperlukan, dan kriteria keberhasilan.
+Memastikan dokumentasi mudah diakses oleh tim penguji.
+Review dan Validasi:
+Mengajak anggota tim untuk meninjau skenario yang telah disusun.
+Memvalidasi bahwa skenario mencakup semua aspek yang perlu diuji dan sesuai dengan kebutuhan pengguna.
+Penyusunan Rencana Uji:
+Mengintegrasikan skenario uji ke dalam rencana uji keseluruhan.
+Menyusun jadwal dan alokasi sumber daya untuk pelaksanaan pengujian.
+Dengan mengikuti tahapan ini, kegiatan penyusunan skenario uji coba dapat dilakukan secara terstruktur dan efektif, sehingga hasil pengujian dapat memberikan informasi yang berguna untuk perbaikan sistem sebelum diluncurkan.
+
+
+3. melakukan uji coba sistem informasi (Aplikasi INTENSE - Modul Profil).
+Deskripsi
+Kegiatan uji coba sistem informasi adalah proses evaluasi dan pengujian sistem untuk memastikan bahwa semua fitur dan fungsi bekerja sesuai dengan yang diharapkan. Uji coba ini dilakukan dengan menggunakan skenario yang telah disusun sebelumnya, yang mencakup berbagai kondisi dan input untuk mengidentifikasi potensi masalah, bug, atau ketidaksesuaian. Uji coba ini penting untuk menjamin kualitas sistem sebelum diluncurkan ke pengguna akhir.
+Maksud dan Tujuan
+Maksud: Untuk mengevaluasi kinerja dan fungsionalitas sistem informasi secara menyeluruh agar dapat mengidentifikasi dan memperbaiki masalah sebelum sistem digunakan secara luas.
+Tujuan:
+Memastikan bahwa semua fitur dan fungsi sistem berjalan sesuai spesifikasi.
+Mengidentifikasi dan mendokumentasikan bug atau masalah yang ditemukan selama pengujian.
+Menguji ketahanan sistem dalam berbagai kondisi penggunaan.
+Memastikan kepuasan pengguna dengan kinerja dan kemudahan penggunaan sistem.
+Memberikan umpan balik untuk perbaikan dan pengembangan lebih lanjut.
+Tahapan
+Persiapan Uji:
+Mengumpulkan semua sumber daya yang diperlukan (tim, alat uji, data).
+Memastikan lingkungan pengujian siap dan sistem telah diinstal dengan benar.
+Pelaksanaan Skenario Uji:
+Mengikuti langkah-langkah dalam skenario uji yang telah disusun.
+Melakukan pengujian pada setiap fitur dan fungsi sesuai dengan skenario yang telah ditentukan.
+Pencatatan Hasil Uji:
+Mencatat semua hasil pengujian, baik yang berhasil maupun yang gagal.
+Mengumpulkan data tentang kecepatan, kinerja, dan respons sistem.
+Identifikasi dan Dokumentasi Masalah:
+Mengidentifikasi dan mendokumentasikan setiap bug atau masalah yang ditemukan.
+Menyertakan detail seperti langkah untuk mereproduksi masalah, kondisi yang menyebabkan masalah, dan dampaknya.
+Analisis Hasil Uji:
+Menganalisis hasil uji untuk menentukan pola atau masalah yang umum.
+Mengkaji apakah sistem memenuhi kriteria keberhasilan yang telah ditetapkan.
+Umpan Balik dan Perbaikan:
+Mengadakan pertemuan untuk mendiskusikan hasil pengujian dan memberikan umpan balik.
+Merencanakan perbaikan atau modifikasi yang diperlukan berdasarkan hasil uji.
+Retesting dan Validasi:
+Setelah perbaikan dilakukan, melakukan uji ulang untuk memastikan masalah telah diperbaiki.
+Memastikan bahwa perubahan tidak menimbulkan masalah baru (regression testing).
+Penyusunan Laporan Uji:
+Menyusun laporan yang merangkum hasil pengujian, masalah yang ditemukan, dan rekomendasi.
+Mendistribusikan laporan kepada pemangku kepentingan untuk informasi lebih lanjut.
+Dengan mengikuti tahapan ini, kegiatan uji coba sistem informasi dapat dilakukan dengan efektif, sehingga memastikan bahwa sistem siap digunakan dan memenuhi harapan pengguna.
