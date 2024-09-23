@@ -128,3 +128,39 @@ Penyusunan Laporan Uji:
 Menyusun laporan yang merangkum hasil pengujian, masalah yang ditemukan, dan rekomendasi.
 Mendistribusikan laporan kepada pemangku kepentingan untuk informasi lebih lanjut.
 Dengan mengikuti tahapan ini, kegiatan uji coba sistem informasi dapat dilakukan dengan efektif, sehingga memastikan bahwa sistem siap digunakan dan memenuhi harapan pengguna.
+
+C. Manfaat 
+1. Melakukan Penyiapan Data untuk Uji Coba
+- Keakuratan Pengujian: Penyiapan data yang relevan dan akurat memastikan bahwa uji coba mencerminkan kondisi nyata yang akan dihadapi pengguna. Ini membantu dalam menemukan masalah yang mungkin tidak terdeteksi jika data tidak sesuai.
+- Pengurangan Risiko: Dengan data yang tepat, risiko kesalahan atau kebingungan saat pengujian dapat diminimalkan, sehingga uji coba lebih efisien.
+- Validasi Fitur: Data yang terstruktur memungkinkan tim untuk secara sistematis memvalidasi semua fitur yang ada pada modul profil pegawai, memastikan bahwa semuanya berfungsi sesuai harapan.
+2. Menyusun Skenario Uji Coba
+- Pendekatan Terstruktur: Skenario yang jelas dan terperinci memberikan panduan bagi tim penguji untuk mengikuti langkah-langkah tertentu, mengurangi kemungkinan pengujian yang tidak konsisten.
+- Pengujian Komprehensif: Skenario yang mencakup berbagai kondisi penggunaan (normal, batas, dan abnormal) memastikan bahwa semua aspek sistem diuji, sehingga meningkatkan kemungkinan menemukan bug atau masalah.
+- Kriteria Keberhasilan yang Jelas: Dengan menetapkan kriteria keberhasilan dalam skenario, tim dapat lebih mudah mengevaluasi hasil pengujian dan menentukan apakah sistem siap diluncurkan.
+3. Melakukan Uji Coba Sistem Informasi
+- Identifikasi Masalah: Proses pengujian langsung pada sistem memungkinkan tim untuk mengidentifikasi dan mendokumentasikan masalah atau bug yang mungkin tidak terlihat pada tahap sebelumnya.
+- Umpan Balik untuk Perbaikan: Hasil dari uji coba memberikan umpan balik yang berharga untuk pengembang, memungkinkan mereka untuk memperbaiki dan meningkatkan sistem sebelum implementasi akhir.
+- Peningkatan Kepercayaan Pengguna: Dengan melakukan uji coba yang menyeluruh, sistem menjadi lebih andal dan memuaskan bagi pengguna, meningkatkan kepercayaan mereka terhadap aplikasi manajemen dokumen kinerja pegawai.
+
+
+1. Alur Program untuk pengujian perubahan data unit instansi:
+Melalui Tautan Profil
+- klik tautan Pengaturan
+- pastikan field NIP dan Nama telah sesuai dengan data HRIS
+- ubah field Level Default, dengan memilih Pegawai/Individu
+- ubah field Unit Instansi, dengan memilih salah satu dari dropdown unit instansi
+- ubah field Jabatan, dengan memilih salah satu dari dropdown jabatan
+- klik button Simpan
+
+Melalui Menu Profil:
+- buka menu Profil
+- pilih submenu Individu
+- pastikan field Nama, NIP, Golongan telah sesuai dengan dari HRIS
+- ubah field Unit Instansi, dengan memilih salah satu dari dropdown unit instansi
+- ubah field Jabatan, dengan memilih salah satu dari dropdown jabatan
+- ubah Atasan Langsung, dengan memilih salah satu dari atasan langsung
+- klik button Simpan
+
+
+
